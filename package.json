@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "deploy": "netlify deploy --prod",
     "lint": "eslint .",
+    
     "preview": "vite preview"
   },
   "dependencies": {
